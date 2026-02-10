@@ -1,10 +1,9 @@
-# 🧠 ASI Brain System – World's First Open Artificial Superintelligence with Dream Mode, Self-Reflection & Advanced Multimodal Cognition
+# 🧠 AI Multimodal Cognitive OS - Advanced Cognitive Engine with Self-Reflection & Multi-Modal Fusion
 
-> **"World's first open ASI Brain System with Dream Mode, Self-Reflection, and Multi-Modal Cognitive Engine.  
-An open-source Artificial Superintelligence system with multi-dimensional cognition, real-time learning, and biological-inspired consciousness modeling."**
+> **"A professional, open-source Cognitive Operating System and modular AI engine featuring multi-dimensional reasoning, real-time learning, and biological-inspired consciousness modeling."**
 
 Developed & Licensed by **Shivam Kumar (Shivay Singh Rajput)**  
-License: **ASI Brain Public License (ASIBPL-2.1)**
+License: **Cognitive OS Public License (COSPL-2.1)**
 
 ---
 
@@ -16,7 +15,7 @@ License: **ASI Brain Public License (ASIBPL-2.1)**
 
 ## 🚀 System Overview
 
-The **ASI Brain System** is a cognitive OS and modular ASI engine designed to simulate self-aware, reflective intelligence capable of interacting with text, image, and audio in real-time, while remembering, improving, and reasoning autonomously.
+The **AI Multimodal Cognitive OS** is a modular engine designed to simulate self-aware, reflective intelligence capable of interacting with text, image, and audio in real-time. It incorporates autonomous reasoning, recursive self-improvement, and persistent episodic memory.
 
 ---
 
@@ -58,6 +57,7 @@ The **ASI Brain System** is a cognitive OS and modular ASI engine designed to si
 | Multilingual Comprehension | 80.5% |
 | Self-Correction Scenarios | 83.1% |
 | **Overall** | **81.5%**  
+
 > 🔥 Benchmarking close to GPT-4 and Claude 3, with biological self-reflective edge
 
 ---
@@ -66,8 +66,8 @@ The **ASI Brain System** is a cognitive OS and modular ASI engine designed to si
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/asi-brain-system.git
-cd asi-brain-system
+git clone https://github.com/Shivay00001/ai-multimodal-cognitive-os.git
+cd ai-multimodal-cognitive-os
 
 # Install requirements
 pip install -r requirements.txt
@@ -76,3 +76,4 @@ pip install -r requirements.txt
 python main.py
 # OR for web interface
 streamlit run app.py
+```
